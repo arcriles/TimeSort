@@ -2,4 +2,4 @@ from tkinter import *
 
 root = Tk()
 
-myLabel = Label(root, text="hello World!")
+myLabel = Label(root, text="Hello World!")
