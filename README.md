@@ -1,4 +1,4 @@
 # TimeSort
-a simple application to sort time
+a simple code to sort time
 
-Sort Time in no 'time'
+Sort Time in no 'time' _ehe_
